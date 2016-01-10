@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAMBKYRU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DStep\Design Rule Check - DStep.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1
